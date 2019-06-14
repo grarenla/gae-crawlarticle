@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+    <cron>
+        <url>/crawl-article</url>
+        <target>crawl-article</target>
+        <description>crawl article use queue</description>
+        <schedule>every 1 minutes</schedule>
+    </cron>
+    <cron>
+        <url>/crawler</url>
+        <target>crawl-source</target>
+        <description>daily summary job</description>
+        <schedule>every 24 hours</schedule>
+    </cron>
+</cronentries>

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neural-guard-241903",
+  "private_key_id": "e764700abede04d55fba195a52b432e59a634353",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/2Cc8VZ5va3eY\nMnP4Dj+tUdBisCIqK8Lq95KRYGiKQpqlvwZGMlZRXs1JPwmicmfMBVvMJnY8gCIH\n6gP4vtQJXRFQCAOvBQ1WsWintRPfDOLNKd3hfScGy67H1nFLQICoOesfcbfFUpP6\nN2UhR6Py6KLlsaoRIhckeMHgSCGWdQiHad4HlA1kTbX1BMDmJuIAVuKwwZM/g2Jx\nPBrxywdZ9LUX/rGfTA0OrZAjtUIqZmkKKP2ABxWTFsD69VwkqeZxHsG3k5Ux/ufK\nmgJbC1HSJLYmkaDOGOyQiBMR1PZAnGX6DfoX7/w2/hmy+zVwsN1wDmHp5IP7yewR\nLpV8JDk/AgMBAAECgf8BBpP4jbpeuKDhyu4dVWRdayc195HQXwEfdV4sDZNSGonL\n4jrXIoAYBFmETRuDm9n7RytzXiyFm6VzidT7ScEASbU+7FZ51i5Dc2DIN9uO2aJk\nYSO559HJ6Ov0L0LQ8WeHESn40ai6n4EYtIL4dlOuVy/+0bbUer9REeRVBYj3IjG7\nN/VJrEJZS7AA6YuLKFw8eF2Ey1AsLgC+uVgpIT1RYYrGZzq2Bir2ftIEcEobGSEW\nxuJoQrrm1+LU+l05AjYdEdzbleO3KbTUVoCZCF2eL/bSE2mLxxBHP0h5FYvq4iaO\narNp66kkOchE/VehW7E23hhFosrCackwFmvBITECgYEA9oCtyh/H7QJ8SY/JrEA/\nGoTyH9XfJ0tgA0c/fyQKTqaR6J4Bfilv54ELHS0tEmdY7dtFX0SQeNkkJ2/+UgOa\n9e6T2q5lAukCHIZLiZdjuYhi1KVwQ0xSNn3u56QltPVUvOPEJ9kJRLk27DWEH2er\np1q6sf2n7bsicwssZvuRLocCgYEAxzxdcwCgA7GKSHFt8H2ZFUpIdc5LIwtoTYig\n67fdx/DQHQzpc9TaLMNjiqywFzOVxSvQvL/3A9E+T718KCzEX0ZCXqdWmxso5Bgo\n5LKPo0xhVGRBsmZEOWUEI+G4OUhyzHQg9cly4erEL9mJ0LsdZUCPKyNftq7QpGNo\nc8Vk1YkCgYEA60KcmxAB6343yK1muPMIRvMjcqbYN9SEahyRyXJINBBdqTlEC3jY\nyIYsaUg4gBwKj9h6ORZjHDOBgfItM3ElcBqnGkrfNQvVbAvwA/1svCIi0PikUFaD\nEGbYoFPVeQO8QBrRl4ZYhjKO7JmW47I57Zt2G3IP16CGnG3JjvAB+/kCgYAYRMsh\nSg8zw/mTL3Xz2GjARicjaniOkUIoR59Kd0Alrbi8ASmiuWfGEhra9oQQn3D77oVj\nqIJ/TYqoje1Eu4dED7vf6cRL6ngFqMe6a+HBQ3mLnRa/k2N2Fk71y/XzzFZnfzHQ\nnrRGvqEdLwNxkIlZHw8RcyKijxLNI2rCx2Wr+QKBgQCM/SiVBrysQY6yLASQTiS2\nHOLnyR4kgy6CJ90R6sEe5VviVCxNG5XN4qtmipKM5q4JPNB0ZpEq9jakIlMt8rDc\nV7vHJD+hQu/c55eNKM/bOgrl3REKJ0d9IP/8eTGHYSe2OLsi9jWQwP0oZYSzLWTq\nIBcX4XfwelM3JyB8nm5Ykg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hoangvt@neural-guard-241903.iam.gserviceaccount.com",
+  "client_id": "107172266295237970664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hoangvt%40neural-guard-241903.iam.gserviceaccount.com"
+}
